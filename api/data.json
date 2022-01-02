@@ -1,0 +1,59 @@
+{
+	"dinos": [{
+			"id": 1,
+			"name": "Tyrannosaurus Rex",
+			"period": "Cretácico",
+            "diet": "Carnívoro",
+            "length": "12-13 metros",
+			"height": "3 metros",
+			"weight": "7-8.8 toneladas",
+			"description":"Dinosaurio carnívoro bípedo, con cabeza y cola enormes, brazos con sólo dos garras, y poderosas patas traseras. Fue uno de los mayores carnívoros que existieron. Se estima que comía unos 100 kilos de carne al día. Su cabeza medía 1,25 metros de longitud y contaba con 60 dientes de hasta 18 cm de longitud. Existe un largo debate sobre si este dinosaurio era depredador o carroñero.",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg"
+			
+		},
+        {
+			"id": 2,
+			"name": "Diplodocus",
+			"period": "Jurásico",
+            "diet": "Herbívoro",
+            "length": "25 metros",
+			"height": "5-7 metros",
+			"weight": "15-23 toneladas",
+			"description":"Es un dinosaurio cuadrúpedo, de cuello y cola largos, y uno de los dinosaurios más largos que han existido. El extremo de su cola era muy delgado, lo que le permitía utilizarla como látigo para defenderse.",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg"
+        },
+        {
+			"id": 3,
+			"name": "Triceratops",
+			"period": "Cretácico",
+            "diet": "Hervíboro",
+            "length": "8-9 metros",
+			"height": "3 metros",
+			"weight": "6-12 toneladas",
+			"description":"Posiblemente es el más conocido de los dinosaurios cornudos, y uno de los últimos dinosaurios que vivió en la tierra. En la frente tenía dos cuernos que llegaban a medir hasta 1 metro, y otro más pequeño en el hocico. Andaba a cuatro patas, vivía en manada y sólo atacaba para defenderse. Su placa ósea le protegía el cuello.",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg"
+        },
+        {
+			"id": 4,
+			"name": "Brachiosaurus",
+			"period": "Jurásico",
+            "diet": "Herbívoro",
+            "length": "22-24 metros",
+			"height": "12-15 metros",
+			"weight": "33-37 toneladas",
+			"description":"Es uno de los dinosaurios más altos y de mayor tamaño. Su cabeza era pequeña, tenía el cuello largo y unas largas patas delanteras, que le permitían llegar hasta la copa de los árboles. Medía hasta 13 metros de alto. El tener un cuello tan largo implicaba tener un corazón grande y poderoso.",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg"
+        },
+        {
+			"id": 5,
+			"name": "Spinosaurus",
+			"period": "Cretácico",
+            "diet": "Carnívoro",
+            "length": "13-15 metros",
+			"height": "3-6 metros",
+			"weight": "6-8 toneladas",
+			"description":"Las espinas distintivas de Spinosaurus, las cuales eran extensiones de las apófisis vertebrales, crecían hasta 1,65 m de altura y probablemente estaban conectadas con piel, formando una estructura similar a una vela; sin embargo, algunos autores han propuesto que las espinas estaban cubiertas de grasa y formaban una joroba para almacenar agua, aunque es más probable la teoría de la vela. Se cree que pudo haberse alimentado de pescado.",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg"
+        }
+    ]
+}
